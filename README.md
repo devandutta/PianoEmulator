@@ -3,7 +3,7 @@ C++ program to convert musical notes to ButtonBass notes
 
 This was a fun project I did in my first CS course in which I wrote logic to convert musical notes into acceptable notes for the ButtonBass piano emulator online.
 
-The program will also verify musical note sequences to confirm that they are valid before attempting to convert to ButtonBass equivalents.
+The program also verifies musical note sequences to confirm that they are valid before attempting to convert to ButtonBass equivalents.
 
 Download the code and have some fun with a virtualized piano!
 
