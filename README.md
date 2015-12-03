@@ -5,8 +5,11 @@ This was a fun project I did in my first CS course in which I wrote logic to con
 
 The program will also verify musical note sequences to confirm that they are valid before attempting to convert to ButtonBass equivalents.
 
+Download the code and have some fun with a virtualized piano!
+
 There are a lot of files in the directory so below is a breakdown of what's here.
 
+NOTE FOR THE "Game_of_Thrones_Theme.rtf" FILE: DUE TO FORMATTING, IT WILL NOT LOOK EASILY READABLE IN GITHUB'S PREVIEW, DOWNLOAD THE FILE
 Files/Folders in the directory:
 
   Piano_Emulator.html: HTML page with the ButtonBass piano plugin
