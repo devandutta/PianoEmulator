@@ -1,5 +1,5 @@
 # PianoEmulator
-PianoEmulator musical note to ButtonBass note converter
+C++ program to convert musical notes to ButtonBass notes
 
 This was a fun project I did in my first CS course in which I wrote logic to convert musical notes into acceptable notes for the ButtonBass piano emulator online.
 
