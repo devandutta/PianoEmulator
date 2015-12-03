@@ -3,6 +3,8 @@ PianoEmulator musical note to ButtonBass note converter
 
 This was a fun project I did in my first CS course in which I wrote logic to convert musical notes into acceptable notes for the ButtonBass piano emulator online.
 
+The program will also verify musical note sequences to confirm that they are valid before attempting to convert to ButtonBass equivalents.
+
 There are a lot of files in the directory so below is a breakdown of what's here.
 
 Files/Folders in the directory:
