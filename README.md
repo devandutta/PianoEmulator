@@ -10,6 +10,7 @@ Download the code and have some fun with a virtualized piano!
 There are a lot of files in the directory so below is a breakdown of what's here.
 
 NOTE FOR THE "Game_of_Thrones_Theme.rtf" FILE: DUE TO FORMATTING, IT WILL NOT LOOK EASILY READABLE IN GITHUB'S PREVIEW, DOWNLOAD THE FILE
+
 Files/Folders in the directory:
 
   Piano_Emulator.html: HTML page with the ButtonBass piano plugin
